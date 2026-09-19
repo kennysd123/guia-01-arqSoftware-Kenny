@@ -1,0 +1,24 @@
+{
+  "name": "guia-01-arqsoftware-kenny",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kennysd123/guia-01-arqSoftware-Kenny.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/kennysd123/guia-01-arqSoftware-Kenny/issues"
+  },
+  "homepage": "https://github.com/kennysd123/guia-01-arqSoftware-Kenny#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
